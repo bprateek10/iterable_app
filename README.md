@@ -27,7 +27,7 @@ Before running RSpec, ensure that the following prerequisites are installed on y
     ```sh
     rails s
     ```
-    The application should be runnning on localhost:3000
+    The application should be runnning on `localhost:3000`
 
 ## Getting Started
 
