@@ -1,8 +1,7 @@
 class EventsController < ApplicationController
   before_action :authenticate_user!
   
-  def index
-  end	
+  def index; end	
 
   def create
     event_type = params[:event_type]
